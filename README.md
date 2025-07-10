@@ -41,7 +41,7 @@ The app will open at `http://localhost:3000`
 
 Below is a screenshot of the running frontend assignment:
 
-![Output Screenshot](./Screenshot/picture/Screenshot.png)
+![Output Screenshot](./Screenshot/Pictures/Screenshot.png)
 
 ---
 
